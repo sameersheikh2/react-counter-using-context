@@ -1,5 +1,5 @@
 import "./App.css";
-import ComponentB from "./components.js/ComponentB";
+import ComponentB from "./components/ComponentB";
 import ContextProvider from "./context.js/CounterContext";
 
 function App() {
